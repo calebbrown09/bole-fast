@@ -1,10 +1,10 @@
 <?php 
 
 
-$host = "162.241.85.59";
-$user = "woppysho_bolefast";
-$password = "[9wWDS?(VVEj";
-$db = "woppysho_bolefast";
+$host = "127.0.0.1";
+$user = "";
+$password = "";
+$db = "";
 $con = mysqli_connect($host, $user, $password, $db);
 
 

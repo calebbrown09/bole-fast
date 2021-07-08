@@ -22,7 +22,7 @@ proyecto poner al final esto "administrativos_reg.php". Ejemplo: example.com/adm
 
 
 # Creditos del proyecto 🤓
-Creador del proyecto: Caleb Brown (IG: @itsjapth)👨🏾‍💻
+Creador del proyecto: Caleb Brown (IG: @calebjaph)👨🏾‍💻
 
 Este proyecto fue creado exclusivamente para mi colegio <b>Benigno Jimenez Garay</b> con tan solo 18 años y cursando en el último año del bachillerato en Tecnología en Informática. Este proyecto fue hecho en <b>Noviembre del 2020</b>. 
 
